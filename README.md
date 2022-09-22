@@ -3,4 +3,4 @@ Machine learning datasets can be used for network training and testing of variou
 
 The proposed dataset can support the following studies: constructing resource allocation objective functions for semantic communication; training siamese neural networks for semantic distortion evaluation; comparing the difference between human experience and machine understanding, etc. With the development of semantic communication, we believe this dataset will spark more research topics in the future. It is worth mentioning that using the constructed distortion data set for the training of the deep learning model can verify the robustness of the deep learning model in the presence of communication interference.
 
-We have made the dataset publicly available，you can download it here.https://drive.google.com/drive/folders/149OQ3c-LNjdbkP6khgxqRMyujF63vO2V?usp=sharing
+We have made the dataset publicly available，you can download it here.https://drive.google.com/drive/folders/1UxJtMtVO_1OfBiCf30zz3Ki13KVBsUd9?usp=sharing
